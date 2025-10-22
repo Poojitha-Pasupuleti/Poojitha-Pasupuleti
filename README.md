@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00C4FF;">Poojitha Pasupuleti</span></h1>
-<h3 align="center">🚀 Full Stack Developer | Python & Java Enthusiast | Tech Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | Python & Java Enthusiast | AI and ML </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=poojithapasupuleti&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" /> 
@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me  
 💡 I’m passionate about **Full Stack Development**, focusing on building smooth, scalable, and creative web apps.  
-🌱 Currently exploring **MERN Stack**, **System Design**, and **DevOps**.  
+🌱 Currently exploring **MERN Stack**,**DevOps**, and **Cloud Computing**.  
 ⚡ Love to design responsive UIs, connect frontend to backend, and automate workflows.  
 🎯 Always open to collaborations and new opportunities.  
 
@@ -86,6 +86,9 @@
 ---
 
 <h3 align="center">⭐️ From <a href="https://github.com/poojithapasupuleti">Poojitha Pasupuleti</a></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00C4FF&lines=Thanks+for+watching!;See+you+soon!)](https://git.io/typing-svg)
+
+— Poojitha 👩‍💻
 
 <!--
 **Poojitha-Pasupuleti/Poojitha-Pasupuleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
