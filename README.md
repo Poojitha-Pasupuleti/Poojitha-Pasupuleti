@@ -76,12 +76,12 @@
 
 ---
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/poojitha-pasupuleti-01458a302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:poojitha.pasupuleti2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail" /></a>
-  <a href="https://github.com/poojithapasupuleti"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="github" /></a>
-</p>
+### 🌐 **Connect With Me**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Poojitha-Pasupuleti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojitha-pasupuleti-01458a302)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poojitha.pasupuleti2004@gmail.com)
+
 
 ---
 
