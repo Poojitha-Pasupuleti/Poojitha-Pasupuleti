@@ -1,4 +1,9 @@
-<!-- PROFILE README FOR POOJITHA PASUPULETI -->
+<<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>
+</p>
+!-- PROFILE README FOR POOJITHA PASUPULETI -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&width=435&lines=Full+Stack+Developer;Python+%7C+Java+%7C+MERN+Stack;Passionate+about+Tech+%26+Design!)](https://git.io/typing-svg)
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00C4FF;">Poojitha Pasupuleti</span></h1>
 <h3 align="center">🚀 Full Stack Developer | Python & Java Enthusiast | Tech Explorer</h3>
