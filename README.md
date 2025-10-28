@@ -1,8 +1,9 @@
-<p align="center">
+!-- PROFILE README FOR POOJITHA PASUPULETI -->
+
+<<p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>
 </p>
 
-<!-- ✨ PROFILE README FOR POOJITHA PASUPULETI ✨ -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,25 +11,26 @@
   </a>
 </p>
 
+
 <h1 align="center">Hi 👋, I'm <span style="color:#00C4FF;">Poojitha Pasupuleti</span></h1>
-<h3 align="center">🚀 Full Stack Developer | Python & Java Enthusiast | AI & ML Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | Python & Java Enthusiast | AI and ML </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poojithapasupuleti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/poojithapasupuleti?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=poojithapasupuleti&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" /> 
+  <img src="https://img.shields.io/github/followers/poojithapasupuleti?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me  
-💡 I’m passionate about **building smooth, scalable, and creative web apps** that merge technology with design.  
-🌱 Currently diving deeper into **MERN Stack**, **DevOps**, and **Cloud Technologies**.  
-💬 Love to **design responsive UIs**, connect **frontend to backend**, and **automate workflows**.  
-🎯 Always open to **collaborations**, learning, and exciting new projects.  
+💡 I’m passionate about **Full Stack Development**, focusing on building smooth, scalable, and creative web apps.  
+🌱 Currently exploring **MERN Stack**,**DevOps**, and **Cloud Computing**.  
+⚡ Love to design responsive UIs, connect frontend to backend, and automate workflows.  
+🎯 Always open to collaborations and new opportunities.  
 
 ---
 
-### ⚙️ Tech Stack  
+### 🚀 Tech Stack  
 
 #### 🧩 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -60,18 +62,16 @@
 ---
 
 ### 📂 Featured Projects  
-
-| 💡 Project | 📝 Description | 🧰 Tech |
-|-------------|----------------|----------|
-| 🎓 [Attendance Tracker](https://github.com/poojithapasupuleti/attendance-tracker) | Smart attendance management system for institutions. | React, Node.js, MySQL |
-| ✍️ [Student Blog App](https://github.com/poojithapasupuleti/blog-app) | Blogging platform built for student communities. | React, Express, MongoDB |
-| 🧮 [Simple Calculator](https://github.com/poojithapasupuleti/simple-calculator) | Basic calculator with clean UI and logic. | HTML, CSS, JavaScript |
-| 📋 [To-Do List App](https://github.com/poojithapasupuleti/todo-list) | Interactive task management app with local storage. | React, Bootstrap |
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🎓 [Attendance Tracker](https://github.com/poojithapasupuleti/attendance-tracker) | Smart system to manage attendance | React, Node.js, MySQL |
+| ✍️ [Blog App for Students](https://github.com/poojithapasupuleti/blog-app) | Blogging platform for college students | React, Express, MongoDB |
+| 🧮 [Simple Calculator](https://github.com/poojithapasupuleti/simple-calculator) | Basic calculator built using JS | HTML, CSS, JavaScript |
+| 📋 [To-Do List App](https://github.com/poojithapasupuleti/todo-list) | Task management with local storage | React, Bootstrap |
 
 ---
 
 ### 📊 GitHub Analytics  
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=poojithapasupuleti&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=poojithapasupuleti&theme=tokyonight" />
@@ -83,26 +83,35 @@
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 **Connect With Me**
 
-<p align="center">
-  <a href="https://github.com/Poojitha-Pasupuleti">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/poojitha-pasupuleti-01458a302">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:poojitha.pasupuleti2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Poojitha-Pasupuleti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojitha-pasupuleti-01458a302)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poojitha.pasupuleti2004@gmail.com)
+
 
 ---
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00C4FF&lines=⭐+Thanks+for+visiting!+⭐;See+you+soon!+👩‍💻" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">✨ From <a href="https://github.com/poojithapasupuleti">Poojitha Pasupuleti</a> ✨</h3>
+<h3 align="center">⭐️ From <a href="https://github.com/poojithapasupuleti">Poojitha Pasupuleti</a></h3>
+
+— Poojitha 👩‍💻
+
+<!--
+**Poojitha-Pasupuleti/Poojitha-Pasupuleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--> 
