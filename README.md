@@ -1,5 +1,3 @@
-!-- PROFILE README FOR POOJITHA PASUPULETI -->
-
 <<p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>
 </p>
@@ -99,7 +97,7 @@
 
 <h3 align="center">⭐️ From <a href="https://github.com/poojithapasupuleti">Poojitha Pasupuleti</a></h3>
 
-— Poojitha 👩‍💻
+
 
 <!--
 **Poojitha-Pasupuleti/Poojitha-Pasupuleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
